@@ -1,0 +1,7 @@
+workspace.xml
+
+*.class
+
+
+# Project exclude paths
+/out/
